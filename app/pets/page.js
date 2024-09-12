@@ -1,6 +1,6 @@
 "use client";
 import MyChart from "@/components/MyChart";
-import MyChartSum from "@/components/MyChartSUM";
+import MyChartSum from "@/components/MyChartSUM/";
 
 export default function Page() {
   return (
